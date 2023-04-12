@@ -4,3 +4,5 @@
 	* what is the affect of MOOCs on citations?
 2. method
 	* clustering
+3. hypothesis
+	* too difficult to measure
