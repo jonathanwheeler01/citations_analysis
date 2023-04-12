@@ -2,6 +2,5 @@
 
 1. follow up on unanswered q's
 	* what is the affect of MOOCs on citations?
-	* what about altmetrics?
 2. method
 	* clustering
